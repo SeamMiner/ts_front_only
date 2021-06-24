@@ -9,9 +9,6 @@
 
 This is only frontend and design system without any backend actions.
 
-## Local setup
+## Demo
 
-```bash
-git clone https://github.com/SeamMiner/ts_front_only && cd ts_front_only
-yarn && yarn serve
-```
+https://seamminer.github.io/ts_front_only/
