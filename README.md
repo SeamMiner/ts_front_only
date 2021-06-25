@@ -7,11 +7,13 @@
 
 **Typing School**
 
-What is Typing School? TS is minimalistic keyboard trainer to practice touch typing skill.
-This is only frontend and design system without any backend actions.
+What is Typing School? TS is minimalistic keyboard trainer to practice touch typing skill.
+This is only frontend and design system without any backend actions.
 
 ![MeetTS](MeetTS.png)
 
 ## Demo
 
-https://seamminer.github.io/ts_front_only/
+Visit TS by following the link: https://seamminer.github.io/ts_front_only/
+
+![TSWebsitePreview](TSWebsitePreview.png)
