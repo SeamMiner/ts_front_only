@@ -7,11 +7,13 @@
 
 **Typing School**
 
-This is only frontend and design system without any backend actions.
+What is Typing School? TS is minimalistic keyboard trainer to practice touch typing skill.
+This is only frontend and design system without any backend actions.
 
-## Local setup
+![MeetTS](MeetTS.png)
 
-```bash
-git clone https://github.com/SeamMiner/ts_front_only && cd ts_front_only
-yarn && yarn serve
-```
+## Demo
+
+Visit TS by following the link: https://seamminer.github.io/ts_front_only/
+
+![TSWebsitePreview](TSWebsitePreview.png)
