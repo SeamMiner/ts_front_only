@@ -6,7 +6,7 @@
 ## About this repository
 
 **Typing School**
-
+What is Typing School? TS is minimalistic keyboard trainer to practice touch typing skill.
 This is only frontend and design system without any backend actions.
 
 ## Demo
