@@ -63,60 +63,60 @@ export default {
       touchEndPositionX: null,
       feedbacks: [
         {
-          imgSrc: "avatarKonstantinHomchenko.png",
+          imgSrc: "example.jpg",
           feedbackDate: "10 ноября 2020 г.",
-          feedbackText: "Я\xa0очень ценю своё время и\xa0своё внимание. Если я\xa0буду долго думать о\xa0том, куда пальцы ставить\xa0\u2014 то\xa0моя мысль будет далеко впереди и\xa0я\xa0что-то упущу в\xa0тексте\xa0\u2014 внимание будет рассеяно. Каждую минуту, что я\xa0потрачу на\xa0неуклюжий набор текста, я\xa0смог\xa0бы потратить на\xa0беседу с\xa0другом, на\xa0развлечения, на\xa0время с\xa0семьёй. Короче, каждый рубль, вложенный в\xa0тайпинг скул вернулся мне\xa0больше чем\xa0сотней рублей. Он\xa0вернулся мне\xa0возможностью заниматься больше тем, чем\xa0я\xa0хочу, а\xa0не\xa0чувствовать себя растяпой, пытаясь попадать пальцами по\xa0буковкам. Спасибо ребятам за\xa0такой крутой тренажёр!",
-          socialNetworkLink: "https://tttttt.me/Konstantin_homchenko",
-          socialNetworkLinkTitle: "Константин Хомченко",
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Tova Yaniv",
           socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarNadejdaKarandasheva.png",
+          imgSrc: "example.jpg",
           feedbackDate: "25 октября 2020 г.",
-          feedbackText: "Typing school отличный сервис для\xa0обучения печати вслепую! Порадовало, что\xa0при\xa0совершении ошибки, предлагается стереть неверный символ и\xa0продолжить задание! Интересная система самого обучения. Буквы проходятся в\xa0разном порядке, что\xa0помогает привыкнуть к\xa0переходу пальцев со\xa0строки на\xa0строку. Единственное, что\xa0не\xa0заметила, это\xa0инструкции, как\xa0печатать. Я\xa0пыталась научиться слепой печати при\xa0помощи другой программы, но\xa0там были минусы, которые здесь отсутствуют, что\xa0повышает желание и\xa0интерес к\xa0тому, чтобы пройти всё до\xa0конца!",
-          socialNetworkLink: "https://vk.com/nadyakonnik",
-          socialNetworkLinkTitle: "Надежда Карандашева",
-          socialNetworkName: "vkontakte"
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Beracha Hed",
+          socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarAlexandrLeader.png",
+          imgSrc: "example.jpg",
           feedbackDate: "8 октября 2020 г.",
-          feedbackText: "Я\xa0дико кайфую от\xa0того, что\xa0сейчас стал печатать с\xa0заметно меньшим количеством опечаток. Особенно приятно открывать вечерком пару уроков и\xa0работать над\xa0собой. Мне\xa0было тяжело переучиваться, приходилось максимально концентрироваться, и\xa0напрягать мозг, чтобы не\xa0вернуться к\xa0привычному способу печатания. Спасибо Typing скулу\xa0\u2014 буду ждать курс по\xa0английской раскладке",
-          socialNetworkLink: "https://tttttt.me/Belonel",
-          socialNetworkLinkTitle: "Александр Лидер",
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Tamir Romi",
           socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarDaryaBorodkina.png",
+          imgSrc: "example.jpg",
           feedbackDate: "24 сентября 2020 г.",
-          feedbackText: "Отличный сервис для\xa0тех, кто\xa0хочет научиться слепой печати. Я\xa0всегда считала, что\xa0быстро печатаю, но\xa0теперь понимаю, что\xa0ошибалась на\xa0этот счёт. После обучения чувствую себя за\xa0работой более уверенно и\xa0периодически ловлю восхищение взгляды одногруппников и\xa0коллег.",
-          socialNetworkLink: "https://vk.com/borodkina.daria",
-          socialNetworkLinkTitle: "Дарья Бородкина",
-          socialNetworkName: "vkontakte"
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Adam Sigal",
+          socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarIlyaPharaphonov.png",
+          imgSrc: "example.jpg",
           feedbackDate: "20 сентября 2020 г.",
-          feedbackText: "\"Мне сложно научиться печатать вслепую...\". Лайфхак\xa0- покупаем ноутбук только с\xa0американской раскладкой и\xa0занимаемся каждый вечер в\xa0Typing School. Или\xa0просто возьми у\xa0них курс, потому\xa0что их\xa0геймификация точно не\xa0даст тебе отступить.",
-          socialNetworkLink: "https://tttttt.me/ucanbestrange",
-          socialNetworkLinkTitle: "Илья Фарафонов",
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Avidan Dror",
           socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarEvgenyaMegryan.png",
+          imgSrc: "example.jpg",
           feedbackDate: "18 сентября 2020 г.",
-          feedbackText: "Скажу честно, Typing School стал моим первым сайтом для\xa0обучения слепой печати. Благодаря лёгкому, приятному, а\xa0главное эффективному формату я\xa0освоила эту\xa0технику всего за\xa05\xa0часов. Прошло уже\xa0больше двух месяцев, а\xa0мой навык слепой печати всё\xa0не\xa0нарадует меня. Typing School, спасибо, что\xa0подарил\xa0мне это\xa0навык!",
-          socialNetworkLink: "https://tttttt.me/jane_meg",
-          socialNetworkLinkTitle: "Евгения Мегрян",
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Tzion Alma",
           socialNetworkName: "telegram"
         },
         {
-          imgSrc: "avatarOlegKrilov.png",
+          imgSrc: "example.jpg",
           feedbackDate: "11 сентября 2020 г.",
-          feedbackText: "Раньше были попытки научиться скоропечатанию, убил большое количество времени в\xa0итоге всё\xa0забылось. Пройдя ваши курсы, получил огромное удовольствие от\xa0прохождения и\xa0буквально за\xa0неделю набрал скорость в\xa0разы превосходящую изначальную. Поскольку учёба во\xa0основном за\xa0компьютером, то\xa0мне стало намного легче! Спасибо!",
-          socialNetworkLink: "https://vk.com/3oleg_krylov",
-          socialNetworkLinkTitle: "Олег Крылов",
-          socialNetworkName: "vkontakte"
+          feedbackText: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium veritatis placeat molestias. Facere necessitatibus sunt voluptatibus dolorem exercitationem ipsum officia, laudantium fuga beatae consequatur, error odit ad, omnis qui aliquam?",
+          socialNetworkLink: "https://typing.school",
+          socialNetworkLinkTitle: "Yona Ofra",
+          socialNetworkName: "telegram"
         },
       ],
     }

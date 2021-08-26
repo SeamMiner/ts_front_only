@@ -12,10 +12,10 @@
           </router-link>
         </b-col>
           <b-col cols="12" lg="auto" class="text-center navigation-link mt-2 mt-lg-0">
-            <a target="_blank" :href="userAgreement" class="footerLink ie-properties">Условия использования</a>
+            <a target="_blank" href="https://typing.school/" class="footerLink ie-properties">Условия использования</a>
           </b-col>
           <b-col cols="12" lg="auto" class="text-center navigation-link navigationLinkBordered">
-            <a target="_blank" :href="privacyPolicy" class="footerLink ie-properties">Конфиденциальность</a>
+            <a target="_blank" href="https://typing.school/" class="footerLink ie-properties">Конфиденциальность</a>
           </b-col>
           <b-col cols="12" lg="auto" class="text-center navigation-link mb-4 mb-lg-0">
             <a href="mailto:hello@typing.school" class="footerLink ie-properties">Обратная связь</a>
@@ -24,21 +24,6 @@
     </b-container>
   </footer>
 </template>
-
-<script>
-import userAgreement from '@/assets/docs/user_agreement.pdf';
-import privacyPolicy from '@/assets/docs/privacy_policy.pdf';
-
-export default {
-  name: "Footer",
-  data() {
-    return {
-      userAgreement,
-      privacyPolicy
-    }
-  }
-}
-</script>
 
 <style scoped>
 footer {
